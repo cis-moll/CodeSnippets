@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.TextCore.Text;
 
-public class SpierdalającyOrgan : MonoBehaviour
+public class RunningOrgan : MonoBehaviour
 {
     int speed;
     float detectionRange = 0.5f;
